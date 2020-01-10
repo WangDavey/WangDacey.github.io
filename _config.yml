@@ -16,3 +16,5 @@ paginate: 5
 paginate_path: "/:num/"
 highlighter: rouge
 permalink: pretty
+
+theme: jekyll-theme-minimal
